@@ -5,8 +5,8 @@ from time import time
 new_width = 200
 new_height = 66
 
-root_path = '../../udacity-steering-image-dataset-part-2/center/'
-rootSave = '../../udacity-steering-image-dataset-mini/second-center/'
+root_path = '../../udacity-steering-image-dataset-part-3/center/'
+rootSave = '../../udacity-steering-image-dataset-mini/center-third/'
 slash = '/'
 root = os.listdir(root_path)
 print 'Iterating through folders:'
