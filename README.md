@@ -14,3 +14,7 @@ https://github.com/vanstorm9/udacity-steering-image-dataset
 Part 2:
 
 https://github.com/vanstorm9/udacity-steering-image-dataset-part-2
+
+Part 3:
+
+https://github.com/vanstorm9/udacity-steering-image-dataset-part-3
